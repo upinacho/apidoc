@@ -18,8 +18,7 @@ docker build -t apidoc/apidoc .
 
 ## Usage
 
-
-Add the mock code of the api. You can see more information on the official page of apidoc
+Add the api code in the src folder. You can see more information on the official page of apidoc
 
 ```javascript
 /**
