@@ -1,0 +1,14 @@
+{
+  "name": "Example doc",
+  "version": "0.3.0",
+  "description": "Api documentation",
+  "title": "Example api doc",
+  "order": [
+    "GetUser",
+    "PostUser"
+  ],
+  "template": {
+  	"withCompare": true,
+  	"withGenerator": true
+  }
+}
